@@ -103,7 +103,7 @@ I'm on the journey.
 
 - Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
 
-| ![Nam Vu - Top-down learning path: machine learning for software engineers](./nam-vu-us-as-a-hack.jpg)|
+| ![Nam Vu - Top-down learning path: machine learning for software engineers](https://github.com/memto/machine-learning-for-software-engineers/blob/master/namvu-us-as-a-hack.jpg)|
 |:---:|
 | USA as heck |
 
