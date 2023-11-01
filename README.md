@@ -132,6 +132,12 @@ This short section consists of prerequisites/interesting info I wanted to learn 
   - [ ] Week2: Chunking
     - [ ] Chunking: The essentials
     - [ ] Seeing the big picture
+  - [ ] Week3: Procrastination and Memory
+    - [ ] Procrastination
+    - [ ] Memory
+  - [ ] Week4: Renaissance your Learning and unlocking your potential 
+    - [ ] Procrastination
+    - [ ] Memory 
 - [ ] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
